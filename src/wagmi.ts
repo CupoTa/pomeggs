@@ -36,10 +36,10 @@ const pomChainTestnet: Chain = {
       symbol: 'POM',
     },
     rpcUrls: {
-      default: 'https://mainnet-rpc.memescan.io',
+      default: 'https://rpc.pomchain.io',
     },
     blockExplorers: {
-      default: { name: 'POMScan', url: 'https://memescan1.io/' },
+      default: { name: 'POMScan', url: 'https://memescan.io/' },
     },
     testnet: false,
   }
