@@ -27,7 +27,7 @@ const pomChainTestnet: Chain = {
   }
 
   const pomChain: Chain = {
-    id: 18159 ,
+    id: 801921 ,
     name: 'POM Mainnet',
     network: 'POM Mainnet',
     nativeCurrency: {
@@ -36,7 +36,7 @@ const pomChainTestnet: Chain = {
       symbol: 'POM',
     },
     rpcUrls: {
-      default: 'https://rpc.pomchain.io',
+      default: 'https://mainnet-rpc.pomchain.io',
     },
     blockExplorers: {
       default: { name: 'POMScan', url: 'https://memescan.io/' },
